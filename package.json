@@ -1,0 +1,20 @@
+{
+  "name": "sba308h-savetheuniverse",
+  "version": "1.0.0",
+  "description": "save the universe",
+  "main": "index.html",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eyob1984/SBA308H-SaveTheUniverse.git"
+  },
+  "author": "Eyob Tamir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eyob1984/SBA308H-SaveTheUniverse/issues"
+  },
+  "homepage": "https://github.com/Eyob1984/SBA308H-SaveTheUniverse#readme"
+}
